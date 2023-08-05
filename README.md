@@ -1,3 +1,5 @@
+![readmebox](https://github.com/Ikhari/Ikhari/assets/72252909/63689e71-42fe-4cef-8001-fb64294f7db2)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ikhari&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-do" /> </p>
 
 - 👋 Hi, I’m **@Ikhari** (*Man of Culture*)
